@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranapagar&label=Profile%20views&color=0e75b6&style=flat" alt="preranapagar" /> </p>
 
-# :standing_man: About Me:
+# :standing_woman: About Me:
 
 - 🔭 I’m always willing to learn new technology
 - 🌱 I’m currently learning ML, DL, NLP, Time Series Analysis, Python, SQL
 - 👯 I’m looking to collaborate on some Data Science project, Hackathon, Datathon
 - 📫 How to reach me: **pagar.prerana@gmail.com**
-- Portfolio Website : https://github.com/Preranapagar
+- Portfolio Website : **https://github.com/Preranapagar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
