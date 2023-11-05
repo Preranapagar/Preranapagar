@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prerana Pagar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preranapagar&label=Profile%20views&color=0e75b6&style=flat" alt="preranapagar" /> </p>
-
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m always willing to learn new technology
@@ -29,3 +27,5 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=preranapagar&theme=dark" />
 	<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preranapagar&theme=2077" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preranapagar&label=Profile%20views&color=0e75b6&style=flat" alt="preranapagar" /> </p>
