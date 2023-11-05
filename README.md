@@ -1,4 +1,4 @@
-![Datascience Banner png ]("C:\Users\Prerana\Dropbox\PC\Downloads\1667455575304.jpeg")
+![Datascience Banner jpeg ]("C:\Users\Prerana\OneDrive\Documents\GitHub\Preranapagar\1667455575304.jpeg")
 <h1 align="center">Hi 👋, I'm Prerana Pagar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
