@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranapagar&label=Profile%20views&color=0e75b6&style=flat" alt="preranapagar" /> </p>
 
-# :standing_woman: About Me:
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m always willing to learn new technology
 - 🌱 I’m currently learning ML, DL, NLP, Time Series Analysis, Python, SQL
