@@ -23,7 +23,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-	<img width="46%" src="https://github-readme-stats.vercel.app/api?username=preranapagar&show_icons=true&theme=dark" />
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=preranapagar&show_icons=true&theme=dark" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=preranapagar&theme=dark" />
 	<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preranapagar&theme=2077" />
 </p>
