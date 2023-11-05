@@ -25,7 +25,7 @@
 <p align="center">
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=preranapagar&show_icons=true&theme=dark" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=preranapagar&theme=dark" />
-	<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preranapagar&theme=2077" />
+	<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preranapagar&theme=2077" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranapagar&label=Profile%20views&color=0e75b6&style=flat" alt="preranapagar" /> </p>
