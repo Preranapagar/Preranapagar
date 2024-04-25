@@ -5,7 +5,7 @@
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m always willing to learn new technology
-- 🌱 I’m currently learning ML, DL, NLP, Time Series Analysis, Python, SQL
+- 🌱 I’m currently learning ML, DL, NLP, Time Series Analysis, Python, SQL and Java
 - 👯 I’m looking to collaborate on some Data Science project, Hackathon, Datathon
 - 📫 How to reach me: **pagar.prerana@gmail.com**
 - Portfolio Website : **https://github.com/Preranapagar**
